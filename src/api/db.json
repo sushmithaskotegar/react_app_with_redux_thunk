@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "norwegian wood",
+      "author": "murakami"
+    },
+    {
+      "id": 2,
+      "title": "2 states",
+      "author": "chetan bhagat"
+    },
+    {
+      "id": 3,
+      "title": "harry potter",
+      "author": "JK Rowling"
+    },
+    {
+      "id": 0.09916250730953635,
+      "title": "sush",
+      "author": "something"
+    },
+    {
+      "id": 0.5215560973999542,
+      "title": "something",
+      "author": "sushmitha"
+    }
+  ]
+}
